@@ -20,3 +20,7 @@ https://content.iospress.com/articles/journal-of-sports-analytics/jsa200450
 
 
 Unlike our analysis, these studies do not go into exploring how different team’s home court advantage may vary. In terms of appropriate analysis, we will likely start with multiple regression. We may also consider doing logistic regression to build models that would predict the home team’s likelihood of winning. For our machine learning technique, we are planning on exploring K-means clustering, in order to group different college’s home court advantages. 
+
+Methods Used:
+- K-means clustering
+- MANOVA (Multivariate Analysis of Variance)
